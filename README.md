@@ -20,3 +20,5 @@ The program uses the Fisher-Yates algorithm to shuffle songs. This algorithm was
 5. Once we have found a match, we swap the position of both songs
 
 This sacrifices a small amount of randomness but ensures a more balanced listening experience.
+
+![The duplicated and shuffled output of songs](assets/Shuffled-Output.png)
